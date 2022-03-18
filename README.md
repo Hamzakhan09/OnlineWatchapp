@@ -7,5 +7,5 @@
     
  ## Credential for user panel :
 
-> email: **Hamza@gmai.com**       
+> email: **Hamza@gmail.com**       
 > password: **12345**
