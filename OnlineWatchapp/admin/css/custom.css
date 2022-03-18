@@ -1,0 +1,46 @@
+body{
+    overflow-x: hidden;
+}
+.btn1{
+    float:right;
+    background-color: #ff2020;
+    padding: 5px 10px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+  a{
+  text-decoration: none;
+  }
+
+  a:hover{
+      color: wheat;
+  }
+
+  .btn-danger,
+  .btn-success
+  {
+    background-color: #ff2020;
+    border: none;
+  }
+
+  .sb-sidenav-dark{
+    background-color: #ff2020;
+  }
+
+  .nav-link{
+      color:white;
+      font-weight: 900;
+  }
+  .small{
+      color: black;
+      font-weight: 900;
+    
+  }
+  .form-group{
+    margin: 10px;
+  }
+  input:focus { 
+    outline: black;
+ }
